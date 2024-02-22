@@ -1,4 +1,5 @@
 Repository reproducing https://github.com/vercel/next.js/issues/51298 issue
+Fixed in 14.1.1-canary.69 🎉
 
 ## How to see the issue
 - clone the repository
